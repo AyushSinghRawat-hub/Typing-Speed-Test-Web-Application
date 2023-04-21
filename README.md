@@ -1,5 +1,6 @@
 # Typing-Speed-Test-Web-Application
-This is a web application that allows users to test their typing speed by typing a given text as fast and accurately as possible. The application is built using HTML, CSS, and JavaScript.
+This is a web application that allows users to test their typing speed by typing a given text as fast and accurately as possible.<br>
+The application is built using HTML, CSS, and JavaScript.
 # Features
 Users can select the difficulty level of the text to be typed (easy, medium, or hard).
 The application calculates the typing speed and accuracy of the user.
