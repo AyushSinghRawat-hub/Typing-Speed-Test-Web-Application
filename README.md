@@ -17,5 +17,4 @@ You can view your typing history by clicking the "History" button.
 The application was developed by [Ayush Sing Rawat].
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
 Feel free to customize this README file to suit your specific project needs. Good luck with your typing speed test web application!
