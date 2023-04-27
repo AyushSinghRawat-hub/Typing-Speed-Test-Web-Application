@@ -18,3 +18,5 @@ The application was developed by [Ayush Sing Rawat].
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Feel free to customize this README file to suit your specific project needs. Good luck with your typing speed test web application!
+# Project Snap's
+![sc](https://user-images.githubusercontent.com/85716437/234921262-ed4cc860-095f-461a-8a43-54f6e8f01866.png)
