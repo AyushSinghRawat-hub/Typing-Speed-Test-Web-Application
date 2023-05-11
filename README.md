@@ -8,10 +8,10 @@ The application provides feedback on the typing speed and accuracy, as well as t
 # Installation
 To use the application, simply clone the repository or download the files and open the 'index.html' file in your web browser.
 # Usage
-Select the difficulty level of the text you want to type.
-Click the "Start" button to begin the typing test.
-Type the given text as fast and accurately as possible.
-Once you've finished typing, the application will display your typing speed, accuracy, and number of mistakes.
+Select the difficulty level of the text you want to type.<br>
+Click the "Start" button to begin the typing test.<br>
+Type the given text as fast and accurately as possible.<br>
+Once you've finished typing, the application will display your typing speed, accuracy, and number of mistakes.<br>
 You can view your typing history by clicking the "History" button.
 # Credits
 The application was developed by [Ayush Sing Rawat].
