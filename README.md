@@ -14,6 +14,7 @@ Type the given text as fast and accurately as possible.<br>
 Once you've finished typing, the application will display your typing speed, accuracy, and number of mistakes.<br>
 You can view your typing history by clicking the "History" button.
 # Credits
+
 The application was developed by [Ayush Sing Rawat].
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
